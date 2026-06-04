@@ -31,3 +31,4 @@ I am comfortable with basic GitHub and programming, but I need more practice wit
 ---
 
 You can write your personal notes here; they will not be parsed and are for your own reference.
+I am working directly on a Linux system instead of WSL on Windows. I am practicing terminal commands, file navigation, and GitHub submission from Linux.
